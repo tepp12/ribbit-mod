@@ -1,0 +1,3 @@
+The next spr folder contains a number of external spritework used for the mod, 
+some of which might ruin a couple of the mod's secrets and surprises. Before
+going any further, please make sure you've finished Ribbit first.
